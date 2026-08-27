@@ -25,9 +25,6 @@ This tool takes a similar approach: **aggressive, opinionated formatting** that 
 ## Installation
 
 ```bash
-# Clone
-git clone https://github.com/1e9-investments/fermat.git
-cd fermat
 
 # Set up Python environment
 python3 -m venv .venv
